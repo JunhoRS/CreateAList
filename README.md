@@ -9,7 +9,7 @@
 
 3-Crear una función que calcule la distancia entre dos puntos en un plano cartesiano.
 
-#•Funciones del Lenguaje (LF):
+##•Funciones del Lenguaje (LF):
 
 1-Utilizar la función "print" en Python para imprimir un mensaje en la consola.
 
