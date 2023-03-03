@@ -1,4 +1,4 @@
-# Task - Functions
+# Homework - Functions
 
 Funciones Definidas:
 Crear una función que calcule el área de un círculo dado su radio.
