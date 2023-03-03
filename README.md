@@ -19,4 +19,4 @@ Crear una función lambda que eleve al cuadrado un número dado.
 Funciones Recursivas:
 Escribir una función recursiva que calcule el factorial de un número.
 Crear una función recursiva que determine si un número es primo o no.
-Escribir una función recursiva que calcule el n-ésimo término de la serie de Fibonaccion.
+Escribir una función recursiva que calcule el n-ésimo término de la serie de Fibonacci.
