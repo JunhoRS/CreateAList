@@ -17,7 +17,7 @@
 
 * 3-A partir de un String crea una lista y modifique uno de los elementos de la lista y vuelva a convertirlo a String.
 
-4-Utilizar la función "open" en Python para abrir un archivo.
+* 4-Utilizar la función "open" en Python para abrir un archivo.
 
 # Funciones Anónimas (AF):
 
