@@ -7,6 +7,5 @@ def calculate_distance(x1, y1, x2, y2):
     return distance
 
 # Verify that the code runs
-
 distance = calculate_distance(1, 2, 4, 6)
-print(distance) # Output: 5.0
+print(distance)

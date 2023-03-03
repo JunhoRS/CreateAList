@@ -8,7 +8,6 @@ def largest_number(numbers):
     return largest
 
 # Verify that the code runs
-
 numbers = [10, 5, 20, 3, 15]
 largest = largest_number(numbers)
 print(largest)

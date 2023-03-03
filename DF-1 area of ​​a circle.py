@@ -5,6 +5,5 @@ def calculate_circle_area(radio):
     return area
 
 # Verify that the code runs
-
 area = calculate_circle_area(19)
 print(area)
