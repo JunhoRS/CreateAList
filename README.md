@@ -1,7 +1,7 @@
 
 ## Homework - [Functions](https://docs.python.org/3/library/functions.html)
 
-•Funciones Definida (DF):
+#•Funciones Definida (DF):
 
 1-Crear una función que calcule el área de un círculo dado su radio.
 
@@ -9,7 +9,7 @@
 
 3-Crear una función que calcule la distancia entre dos puntos en un plano cartesiano.
 
-•Funciones del Lenguaje (LF):
+#•Funciones del Lenguaje (LF):
 
 1-Utilizar la función "print" en Python para imprimir un mensaje en la consola.
 
@@ -19,7 +19,7 @@
 
 4-Utilizar la función "open" en Python para abrir un archivo.
 
-•Funciones Anónimas (AF):
+#•Funciones Anónimas (AF):
 
 1-Ordenar una lista de números utilizando una función lambda.
 
@@ -27,7 +27,7 @@
 
 3-Crear una función lambda que eleve al cuadrado un número dado.
 
-•Funciones Recursivas (RF):
+#•Funciones Recursivas (RF):
 
 1-Escribir una función recursiva que calcule el factorial de un número.
 
