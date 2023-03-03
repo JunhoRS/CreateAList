@@ -19,7 +19,7 @@
 
 4-Utilizar la función "open" en Python para abrir un archivo.
 
-#•Funciones Anónimas (AF):
+# •Funciones Anónimas (AF):
 
 1-Ordenar una lista de números utilizando una función lambda.
 
@@ -27,7 +27,7 @@
 
 3-Crear una función lambda que eleve al cuadrado un número dado.
 
-#•Funciones Recursivas (RF):
+# •Funciones Recursivas (RF):
 
 1-Escribir una función recursiva que calcule el factorial de un número.
 
